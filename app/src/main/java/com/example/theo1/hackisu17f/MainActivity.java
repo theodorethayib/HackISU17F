@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         Toast.makeText(getApplicationContext(), "Test", Toast.LENGTH_LONG).show();
-        Toast.makeText(getApplicationContext(), "Test", Toast.LENGTH_LONG).show();
+        Toast.makeText(getApplicationContext(), "Test2", Toast.LENGTH_LONG).show();
     }
 
     @Override
